@@ -1,8 +1,6 @@
 stivengp00
-bstivengp00@gmail.com"Nombre del Usuario: TuNombre" 
-"Correo Electr¢nico: tu_correo@ejemplo.com" 
-"Nombre del Usuario: TuNombre" 
-"Correo Electr¢nico: tu_correo@ejemplo.com" 
+
 "Nombre del Usuario: stivengp00" 
 "Correo Electr¢nico: bstivengp00@gmail.com" 
+ 
 "cat" 
