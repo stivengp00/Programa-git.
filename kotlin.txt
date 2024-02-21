@@ -1,6 +1,4 @@
 stivengp00
 
 "Nombre del Usuario: stivengp00" 
-"Correo Electr¢nico: bstivengp00@gmail.com" 
- 
-"cat" 
+"Correo ElectrÂ¢nico: bstivengp00@gmail.com" "cat" 
